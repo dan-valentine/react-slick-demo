@@ -1,0 +1,20 @@
+.simple_container {
+  width: 90%;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 2px;
+}
+.simple_slider{
+  margin: 0 auto;
+  padding: 10px 30px;
+  width: 80%;
+  color: #333;
+  background: #419be0;
+}
+.simple_slider_item{
+  background: #ffffff;
+  text-align: center;
+  margin: 0 5px;
+  /* border: 2px solid #419be0; */
+}
