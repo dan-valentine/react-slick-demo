@@ -10,7 +10,7 @@ npm install react-slick
 yarn add react-slick
 ```
 
-<strong><u>Then You need to do one of these two things. </u></strong>
+⚠️<strong><u>Then You need to do one of these two things. </u></strong>⚠️
 
 1. Install Slick Carousel for css and font 
 
